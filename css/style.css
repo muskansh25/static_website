@@ -1,0 +1,36 @@
+body {
+    background-image: url('../img/perfect.jpg');
+   
+
+}
+
+li.Class1 { 
+    color:black;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: whitesmoke; 
+    B
+}
+
+li.Class2 { 
+    color: black;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: whitesmoke; 
+}
+
+li.Class3 { 
+    color: black;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: whitesmoke; 
+}
+
+li { 
+    color: whitesmoke;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wrapper {
+    background-color: black;
+}
